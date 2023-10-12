@@ -1,24 +1,19 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Kyle Kerlew Portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "type": "git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Kyle Kerlew",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0"
   },
